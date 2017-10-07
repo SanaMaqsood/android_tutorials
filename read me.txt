@@ -1,0 +1,1 @@
+this repo will contains all android basic concepts sample code
